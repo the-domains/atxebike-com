@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Austin Texas electric bike rental and sales]]></title>
         <description><![CDATA[Austin Texas electric bike rental and sales]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/atxebike-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 14:39:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 14:44:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/atxebike-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p> contact information</p></article>]]></description>
+            <link>https://thegrid.ai/atxebike-com/contact/index.html</link>
+            <guid isPermaLink="false">c7e3c165-453d-444a-9277-cda902ae156d</guid>
+            <pubDate>Mon, 21 Mar 2016 14:44:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Austin Texas electric bike sales and rental, we deliver fat tire ebikes to your location and then pick them up when your done. We also sell extreme power fat tire ebikes. Give us a call at 512 827 8360</p>]]></description>
-            <link>undefinedabe6bd7d-da7b-4ca3-8928-1482d598ac08/index.html</link>
+            <link>https://thegrid.ai/atxebike-com/abe6bd7d-da7b-4ca3-8928-1482d598ac08/index.html</link>
             <guid isPermaLink="false">abe6bd7d-da7b-4ca3-8928-1482d598ac08</guid>
             <pubDate>Mon, 21 Mar 2016 14:39:25 GMT</pubDate>
         </item>

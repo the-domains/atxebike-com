@@ -1,0 +1,28 @@
+name: atxebike.com
+favicon: null
+layout_spectrum: 0.19902419461868703
+typography_spectrum: 0.5940319506917149
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.31934181158430874
+  lightness: 0.7903748063836247
+  saturation: 0.544702565530315
+  rhythmicContrast: 0.032118751434609294
+purpose: []

@@ -4,8 +4,15 @@
         <description><![CDATA[Austin Texas electric bike rental and sales]]></description>
         <link>https://thegrid.ai/atxebike-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 23:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 23:28:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atxebike-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Austin Texas electric bike sales and rental, we deliver fat tire ebikes to your location and then pick them up when your done. We also sell extreme power fat tire ebikes. Give us a call at 512 827 8360</p>]]></description>
+            <link>https://thegrid.ai/atxebike-com/abe6bd7d-da7b-4ca3-8928-1482d598ac08/index.html</link>
+            <guid isPermaLink="false">abe6bd7d-da7b-4ca3-8928-1482d598ac08</guid>
+            <pubDate>Tue, 22 Mar 2016 23:28:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[atxebike.com logo]]></title>
             <description><![CDATA[<article><h1>atxebike.com logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70ffd5b7622185f26e822fc1a42d3882641ff640.png"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/atxebike-com/contact/index.html</link>
             <guid isPermaLink="false">c7e3c165-453d-444a-9277-cda902ae156d</guid>
             <pubDate>Mon, 21 Mar 2016 14:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Austin Texas electric bike sales and rental, we deliver fat tire ebikes to your location and then pick them up when your done. We also sell extreme power fat tire ebikes. Give us a call at 512 827 8360</p>]]></description>
-            <link>https://thegrid.ai/atxebike-com/abe6bd7d-da7b-4ca3-8928-1482d598ac08/index.html</link>
-            <guid isPermaLink="false">abe6bd7d-da7b-4ca3-8928-1482d598ac08</guid>
-            <pubDate>Mon, 21 Mar 2016 14:39:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
